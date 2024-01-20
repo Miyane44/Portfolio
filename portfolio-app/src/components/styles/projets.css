@@ -1,0 +1,15 @@
+.portfolio {
+    margin: 50px 200px;
+}
+
+.gallery {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin: 40px 100px;
+    padding: 70px 75px;
+    background-color: rgb(29, 66, 135);;
+}

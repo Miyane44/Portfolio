@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titre": "Booki",
+        "description": "Il s'agit d'un site permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leurs choix",
+        "imageUrl": "./assets/booki.png",
+        "difficultes": "",
+        "competences": [
+            "HTML",
+            "CSS"
+        ],
+        "github": "https://github.com/Miyane44/ProjetOC2"
+    }
+]
