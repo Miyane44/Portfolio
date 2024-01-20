@@ -3,12 +3,36 @@
         "id": 1,
         "titre": "Booki",
         "description": "Il s'agit d'un site permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leurs choix",
-        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/booki.webp",
+        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/booki-image.webp",
         "difficultes": "",
         "competences": [
             "HTML",
             "CSS"
         ],
         "github": "https://github.com/Miyane44/ProjetOC2"
+    },
+    {
+        "id": 2,
+        "titre": "Sophie Bluel",
+        "description": "Il s'agit du portfolio de Sophie Bluel qui est architecte d'intérieur.",
+        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/sophie-bluel.webp",
+        "difficultes": "",
+        "competences": [
+            "Javascript"
+        ],
+        "github": "https://github.com/Miyane44/ProjetOC3"
+    },
+    {
+        "id": 3,
+        "titre": "Nina Carducci",
+        "description": "Il s'agit du portfolio de Sophie Bluel qui est architecte d'intérieur.",
+        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/nina-carducci.webp",
+        "difficultes": "",
+        "competences": [
+            "Optimisation",
+            "SEO",
+            "Accessibilité"
+        ],
+        "github": "https://github.com/Miyane44/ProjetOC5"
     }
 ]
