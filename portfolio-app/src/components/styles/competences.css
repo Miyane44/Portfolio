@@ -1,0 +1,36 @@
+.competences {
+    margin: 50px 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    padding-left: 100px;
+}
+
+.mes-competences {
+    margin: 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.front,
+.back, 
+.tools {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+
+.competences-list {
+    list-style: none;
+    text-align: center;
+    font-style: italic;
+}
+
+.tool-icon {
+    color: #1d4287;
+    font-size: 61px;
+}

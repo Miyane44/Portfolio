@@ -18,13 +18,12 @@ function Apropos() {
                     Ayant toujours été attirée par le <strong>domaine de l'informatique</strong>, j'ai décidé de me reconvertir dans le domaine du <strong>développement informatique</strong>.
                 </p>
                 <p>
-                    J'ai donc suivi la <strong>formation Développeur Web d'Openclassrooms en alternance</strong> chez Finance Active, pendant 1 an.
+                    J'ai donc suivi la <strong>formation Développeur Web d'Openclassrooms en alternance</strong>, pendant 1 an.
                 </p>
                 <p>
                     Lors de cette formation, j'ai pu acquérir plusieurs compétences.
                 </p>
             </div>
-            
         </div>
     );
 }

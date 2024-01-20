@@ -10,7 +10,7 @@ function PageHeader() {
             <ul className='nav-list'>
                 <li><a className='link' href='#a-propos'>À propos</a></li>
                 <li><a className='link' href='#competences'>Mes compétences</a></li>
-                <li>Mon portfolio</li>
+                <li><a className='link' href='#portfolio'>Mon portfolio</a></li>
                 <li>Contact</li>
             </ul>
         </nav>
