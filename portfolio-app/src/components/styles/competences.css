@@ -1,11 +1,7 @@
 .competences {
-    margin: 50px 100px;
+    margin: 50px 100px 20px;
     display: flex;
     flex-direction: column;
-}
-
-.title {
-    padding-left: 100px;
 }
 
 .mes-competences {

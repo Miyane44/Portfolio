@@ -1,0 +1,17 @@
+.footer {
+    background-color: rgb(29, 66, 135);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+    padding: 25px 0;
+}
+
+.mail {
+    padding: 25px 0;
+}
+
+.mail-icon {
+    margin-right: 15px;
+}

@@ -7,7 +7,7 @@ import './styles/competences.css';
 function Competences() {
     return (
         <div id='competences' className='competences'>
-            <h2 className='title'>Mes compétences</h2>
+            <h2 className='title'>Compétences</h2>
             <div className='mes-competences'>
 				<div className='front'>
 					<h3>Front-end</h3>
@@ -48,6 +48,8 @@ function Competences() {
 						<li>IntelliJ Idea</li>
 						<li>Swagger</li>
 						<li>Postman</li>
+						<li>Trello</li>
+						<li>Figma</li>
 					</ul>
 				</div>
 			</div>

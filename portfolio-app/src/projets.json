@@ -2,37 +2,104 @@
     {
         "id": 1,
         "titre": "Booki",
-        "description": "Il s'agit d'un site permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leurs choix",
+        "description": "Ce projet consistait à créer la page d'accueil d'une agence de Voyage (Booki) avec HTML et CSS.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/booki-image.webp",
-        "difficultes": "",
+        "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/booki-site.webp",
+        "difficultes": "Je n'ai pas rencontré de difficultés particulières pour ce projet. Ce projet m'a permis d'approfondir les notions que j'avais déjà en HTML et CSS.",
         "competences": [
+            "Installer un environnement de développement front-end",
+            "Implémenter une interface responsive avec HTML et CSS",
+            "Intégrer du contenu conformément à une maquette avec HTML et CSS",
+            "Versionner son projet avec Git et Github"
+        ],
+        "tags": [
+            "Front-end",
             "HTML",
-            "CSS"
+            "CSS",
+            "W3C",
+            "Figma"
         ],
         "github": "https://github.com/Miyane44/ProjetOC2"
     },
     {
         "id": 2,
         "titre": "Sophie Bluel",
-        "description": "Il s'agit du portfolio de Sophie Bluel qui est architecte d'intérieur.",
+        "description": "Ce projet consistait à créer une page web dynamique avec Javascript.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/sophie-bluel.webp",
-        "difficultes": "",
+        "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/sophie-bluel-site.webp",
+        "difficultes": "Étant en alternance, j'utilise Angular et Typescript en entreprise. Je n'avais encore jamais fait de Javascript Vanilla. Je n'ai pas particulièrement rencontré de difficultés, prendre connaissance de la documentation m'a permis de développer les éléments nécessaires.",
         "competences": [
-            "Javascript"
+            "Gérer les événements utilisateurs avec JavaScript",
+            "Manipuler les éléments du DOM avec JavaScript",
+            "Récupérer les données utilisateurs dans le JavaScript via des formulaires"
+        ],
+        "tags": [
+            "Front-end",
+            "Javascript",
+            "HTML",
+            "CSS",
+            "Figma"
         ],
         "github": "https://github.com/Miyane44/ProjetOC3"
     },
     {
         "id": 3,
         "titre": "Nina Carducci",
-        "description": "Il s'agit du portfolio de Sophie Bluel qui est architecte d'intérieur.",
+        "description": "Ce projet consistait à débugger et optimiser un site de photographe.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/nina-carducci.webp",
-        "difficultes": "",
+        "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/nina-site.webp",
+        "difficultes": "Ce projet nécessitait énormément de modifications afin de respecter les bonnes pratiques. Le plus difficile a été de ne pas s'éparpiller et également de trouver les solutions les plus appropriés aux problèmes existants. Pour cela, j'ai fonctionné étape par étape en réglant les problèmes un par un.",
         "competences": [
-            "Optimisation",
+            "Optimiser les performances d’un site web",
+            "Débugger un site web grâce aux Chrome DevTools",
+            "Rédiger un cahier de recette pour tester un site"
+        ],
+        "tags": [
+            "WAVE",
+            "Schema.org",
             "SEO",
-            "Accessibilité"
+            "Lighthouse"
         ],
         "github": "https://github.com/Miyane44/ProjetOC5"
+    },
+    {
+        "id": 4,
+        "titre": "Kasa",
+        "description": "Ce projet consistait à créer une application web de location immobilière avec React.",
+        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/Kasa.webp",
+        "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/kasa-site.webp",
+        "difficultes": "",
+        "competences": [
+            "Développer une interface web avec Sass",
+            "Configurer la navigation entre les pages de l'application avec React Router",
+            "Développer des éléments de l'interface d'un site web grâce à des composants React",
+            "Initialiser une application avec Create React App",
+            "Mettre en œuvre des animations CSS"
+        ],
+        "tags": [
+            "Front-end",
+            "React"
+        ],
+        "github": "https://github.com/Miyane44/ProjetOC6"
+    },
+    {
+        "id": 5,
+        "titre": "Mon vieux grimoire",
+        "description": "Ce projet consistait à développer le back-end d'un site de notation de livres.",
+        "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/mon_vieuw_grimoire.webp",
+        "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/mon-vieuw-grimoire-site.webp",
+        "difficultes": "",
+        "competences": [
+            "Implémenter un modèle logique de données conformément à la réglementation",
+            "Mettre en œuvre des opérations CRUD de manière sécurisée",
+            "Stocker des données de manière sécurisée"
+        ],
+        "tags": [
+            "Back-end",
+            "NodeJS",
+            "Express",
+            "MongoDB"
+        ],
+        "github": "https://github.com/Miyane44/ProjectOC7"
     }
 ]

@@ -5,7 +5,6 @@ import Card from './card';
 import './styles/projets.css';
 
 function Projets() {
-    console.log(projetsListe);
     return (
         <div id='portfolio' className='portfolio'>
             <h2 className='title'>Portfolio</h2>
@@ -17,7 +16,10 @@ function Projets() {
                         description={e.description} 
                         image={e.imageUrl} 
                         competences={e.competences}
+                        difficultes={e.difficultes}
+                        tags={e.tags}
                         github={e.github}
+                        imageSite={e.imageSite}
                     />
                 ))}
             </div>

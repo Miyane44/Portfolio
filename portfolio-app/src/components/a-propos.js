@@ -6,9 +6,8 @@ import '../components/styles/a-propos.css';
 function Apropos() {
     return (
         <div className='a-propos' id='a-propos'>
-            <h2>À propos de moi</h2>
+            <h2>Elodie Mouquet - Développeuse Full Stack</h2>
             <img src={photo} className='photo' alt='Elodie Mouquet'/>
-            <h3>Elodie Mouquet - Développeuse Full Stack</h3>
             <div className='texte'>
                 <p>
                     Après plusieurs années à travailler dans des centres d'appels téléphonique dans le domaine des mutuelles santé,
