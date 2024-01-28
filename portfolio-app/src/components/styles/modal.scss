@@ -53,16 +53,22 @@
 }
 
 .projet-infos {
+    width: 50%;
     @media screen and (max-width:1180px) {
         font-size: 14px;
+    }
+    @media screen and (max-width:1024px) {
+        width: 100%;
     }
 }
 
 .projet-image {
+    width: 50%;
     overflow-y: auto;
     height: calc(100vh - 500px);
 
     @media screen and (max-width:1024px) {
+        width: 100%;
         margin-top: 40px;
         overflow-y: hidden;
         height: auto;

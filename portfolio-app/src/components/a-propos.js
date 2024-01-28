@@ -6,7 +6,7 @@ import '../components/styles/a-propos.scss';
 function Apropos() {
     return (
         <div className='a-propos' id='a-propos'>
-            <h2>Elodie Mouquet - Développeuse Full Stack</h2>
+            <h2 className='name'>Elodie Mouquet - Développeuse Full Stack</h2>
             <img src={photo} className='photo' alt='Elodie Mouquet'/>
             <div className='texte'>
                 <p>

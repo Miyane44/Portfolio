@@ -8,6 +8,12 @@
     gap: 20px;
 }
 
+.name {
+    @media screen and (max-width:728px) {
+        text-align: center;
+    }
+}
+
 .photo {
     border-radius: 50%;
     width: 150px;
