@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './styles/nav.css';
+import './styles/nav.scss';
 
 function Nav() {
     return (

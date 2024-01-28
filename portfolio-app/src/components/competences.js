@@ -2,7 +2,7 @@ import React from 'react';
 
 import logosFront from './../assets/front-end.webp';
 import logosBack from './../assets/back-end.webp';
-import './styles/competences.css';
+import './styles/competences.scss';
 
 function Competences() {
     return (
@@ -10,7 +10,7 @@ function Competences() {
             <h2 className='title'>Compétences</h2>
             <div className='mes-competences'>
 				<div className='front'>
-					<h3>Front-end</h3>
+					{/* <h3>Front-end</h3> */}
 					<img src={logosFront} alt='logo Front'/>
 					<ul className='competences-list'>
 						<li>HTML</li>
@@ -25,7 +25,7 @@ function Competences() {
 					</ul>
 				</div>
 				<div className='back'>
-					<h3>Back-end</h3>
+					{/* <h3>Back-end</h3> */}
 					<img src={logosBack} alt='logo Back'/>
 					<ul className='competences-list'>
 						<li>Node.js</li>
@@ -38,7 +38,7 @@ function Competences() {
 					</ul>
 				</div>
 				<div className='tools'>
-					<h3>Outils</h3>
+					{/* <h3>Outils</h3> */}
 					<i className="tool-icon fa-solid fa-screwdriver-wrench"></i>
 					<ul className='competences-list'>
 						<li>Git</li>

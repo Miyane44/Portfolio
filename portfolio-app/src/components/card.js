@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import './styles/card.css';
+import './styles/card.scss';
 import Modal from "./modal";
 
 function Card(props) {

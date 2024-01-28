@@ -2,7 +2,7 @@ import React from 'react';
 
 import projetsListe from './../projets.json';
 import Card from './card';
-import './styles/projets.css';
+import './styles/projets.scss';
 
 function Projets() {
     return (

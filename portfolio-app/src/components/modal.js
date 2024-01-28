@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./styles/modal.css";
+import "./styles/modal.scss";
 import Tag from "./tag";
 
 function Modal(props) {
@@ -45,7 +45,7 @@ function Modal(props) {
                         </div>
                         <div className="projet-image">
                             <div className="image">
-                                <img src={props.image}/>
+                                <img loading="lazy" src={props.image}/>
                             </div>
                         </div>
                     </div>

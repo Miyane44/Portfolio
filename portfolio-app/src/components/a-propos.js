@@ -1,7 +1,7 @@
 import React from 'react';
 
 import photo from '../../src/assets/photo.jpg';
-import '../components/styles/a-propos.css';
+import '../components/styles/a-propos.scss';
 
 function Apropos() {
     return (
@@ -14,7 +14,7 @@ function Apropos() {
                     j'ai décidé de <strong>changer de métier</strong>.
                 </p>
                 <p>
-                    Ayant toujours été attirée par le <strong>domaine de l'informatique</strong>, j'ai décidé de me reconvertir dans le domaine du <strong>développement informatique</strong>.
+                    Ayant toujours été attirée par le <strong>domaine de l'informatique</strong>, j'ai décidé de me reconvertir dans le <strong>développement informatique</strong>.
                 </p>
                 <p>
                     J'ai donc suivi la <strong>formation Développeur Web d'Openclassrooms en alternance</strong>, pendant 1 an.

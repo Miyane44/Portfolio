@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './styles/page-header.css';
+import './styles/page-header.scss';
 import Nav from './nav';
 
 function PageHeader() {

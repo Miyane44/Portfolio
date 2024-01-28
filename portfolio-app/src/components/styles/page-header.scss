@@ -1,0 +1,13 @@
+.header {
+    background-color: rgb(29, 66, 135);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+
+    @media screen and (max-width:728px) {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
