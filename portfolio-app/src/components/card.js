@@ -15,7 +15,7 @@ function Card(props) {
       };
     return (
         <div className='card'>
-            <a href='#' onClick={(event) => showModal(event)}>
+            <a onClick={(event) => showModal(event)}>
                 <div className='overlay'>
                     <span className='text'>Détails</span>
                 </div>
