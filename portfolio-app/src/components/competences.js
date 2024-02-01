@@ -1,7 +1,6 @@
 import React from 'react';
 
 import logosFront from './../assets/front-end.webp';
-import logosBack from './../assets/back-end.webp';
 import './styles/competences.scss';
 
 function Competences() {
@@ -11,7 +10,7 @@ function Competences() {
             <div className='mes-competences'>
 				<div className='front'>
 					{/* <h3>Front-end</h3> */}
-					<img src={logosFront} alt='logo Front'/>
+					<i className='icon blue fa-solid fa-computer'></i>
 					<ul className='competences-list'>
 						<li>HTML</li>
 						<li>CSS</li>
@@ -26,7 +25,10 @@ function Competences() {
 				</div>
 				<div className='back'>
 					{/* <h3>Back-end</h3> */}
-					<img src={logosBack} alt='logo Back'/>
+                    <div className='tags'>
+                        <i className='icon grey fa-solid fa-server'></i>
+                        <i className='icon grey fa-solid fa-database'></i>
+                    </div>
 					<ul className='competences-list'>
 						<li>Node.js</li>
 						<li>Express</li>
@@ -39,7 +41,7 @@ function Competences() {
 				</div>
 				<div className='tools'>
 					{/* <h3>Outils</h3> */}
-					<i className="tool-icon fa-solid fa-screwdriver-wrench"></i>
+					<i className='icon blue fa-solid fa-screwdriver-wrench'></i>
 					<ul className='competences-list'>
 						<li>Git</li>
 						<li>GitHub</li>

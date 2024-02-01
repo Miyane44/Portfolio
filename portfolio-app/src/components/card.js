@@ -14,13 +14,14 @@ function Card(props) {
         setModalShow(false);
       };
     return (
-        <div className="card">
+        <div className='card'>
             <a onClick={(event) => showModal(event)}>
-                <div className="overlay">
-                    <div className="text">Détails</div>
+                <div className='overlay'>
+                    <span className='text'>Détails</span>
                 </div>
-                <img src={props.image} alt="Illustration du projet"/>
-                <span className="card-title">{props.titre}</span>
+                <img src={props.image} alt={'Illustration du projet ' + props.titre}/>
+                <span className='card-title'>{props.titre}</span>
+                
             </a>
             <Modal 
                 show={modalShow} 

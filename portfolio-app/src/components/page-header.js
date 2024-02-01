@@ -5,7 +5,7 @@ import Nav from './nav';
 
 function PageHeader() {
     return (
-        <header className="header">
+        <header className='header'>
         <h1>Portfolio</h1>
         <Nav/>
       </header>

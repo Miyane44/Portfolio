@@ -7,7 +7,7 @@ import Projets from './components/projets';
 
 function App() {
   return (
-    <div className="home">
+    <div className='home'>
       <PageHeader/>
       <Apropos/>
       <Competences/>
