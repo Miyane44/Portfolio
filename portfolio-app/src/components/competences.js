@@ -1,6 +1,5 @@
 import React from 'react';
 
-import logosFront from './../assets/front-end.webp';
 import './styles/competences.scss';
 
 function Competences() {
@@ -9,7 +8,6 @@ function Competences() {
             <h2 className='title'>Compétences</h2>
             <div className='mes-competences'>
 				<div className='front'>
-					{/* <h3>Front-end</h3> */}
 					<i className='icon blue fa-solid fa-computer'></i>
 					<ul className='competences-list'>
 						<li>HTML</li>
@@ -24,7 +22,6 @@ function Competences() {
 					</ul>
 				</div>
 				<div className='back'>
-					{/* <h3>Back-end</h3> */}
                     <div className='tags'>
                         <i className='icon grey fa-solid fa-server'></i>
                         <i className='icon grey fa-solid fa-database'></i>
@@ -40,7 +37,6 @@ function Competences() {
 					</ul>
 				</div>
 				<div className='tools'>
-					{/* <h3>Outils</h3> */}
 					<i className='icon blue fa-solid fa-screwdriver-wrench'></i>
 					<ul className='competences-list'>
 						<li>Git</li>

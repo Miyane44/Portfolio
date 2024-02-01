@@ -42,7 +42,7 @@ function Modal(props) {
                             <div className='tags'>
                                 <div className='tag'>
                                     <span className='tag-title'>
-                                        <a className='github-link' href={props.github} target='_blank'>
+                                        <a className='github-link' href={props.github} target='_blank' rel='noreferrer'>
                                             <i className='fa-solid fa-arrow-up-right-from-square'></i>
                                             <span className='pl-5'>Lien Github</span>
                                         </a>
