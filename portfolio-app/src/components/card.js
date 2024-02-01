@@ -19,8 +19,10 @@ function Card(props) {
                 <div className='overlay'>
                     <span className='text'>Détails</span>
                 </div>
+                <div className='fixed-overlay'>
+                    <span className='card-title'>{props.titre}</span>
+                </div>
                 <img src={props.image} alt={'Illustration du projet ' + props.titre}/>
-                <span className='card-title'>{props.titre}</span>
             </a>
             <Modal 
                 show={modalShow} 
