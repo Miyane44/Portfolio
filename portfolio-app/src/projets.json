@@ -48,7 +48,7 @@
         "description": "Ce projet consistait à débugger et optimiser un site de photographe.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/nina-carducci.webp",
         "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/nina-site.webp",
-        "difficultes": "Ce projet nécessitait énormément de modifications afin de respecter les bonnes pratiques. Le plus difficile a été de ne pas s'éparpiller et également de trouver les solutions les plus appropriés aux problèmes existants. Pour cela, j'ai fonctionné étape par étape en réglant les problèmes un par un. La gestion des perfomances lié aux images a également été difficile puisqu'il fallait conserver la qualité des images tout en diminuant la taille des fichiers. Pour cela, j'ai utilisé l'outil Squoosh afin de modifier l'extension des images tout en conservant leur qualité. J'ai aussi ajouté l'attribut srcset afin de changer l'image utilisée en fonction de la taille de l'écran",
+        "difficultes": "Ce projet nécessitait énormément de modifications afin de respecter les bonnes pratiques. Le plus difficile a été de ne pas s'éparpiller et également de trouver les solutions les plus appropriés aux problèmes existants. Pour cela, j'ai fonctionné étape par étape en réglant les problèmes un par un. La gestion des perfomances lié aux images a également été difficile puisqu'il fallait conserver la qualité des images tout en diminuant la taille des fichiers. Pour cela, j'ai utilisé l'outil Squoosh afin de modifier l'extension des images tout en conservant leur qualité. J'ai aussi ajouté l'attribut srcset afin de changer l'image utilisée en fonction de la taille de l'écran.",
         "competences": [
             "Optimiser les performances d’un site web",
             "Débugger un site web grâce aux Chrome DevTools",
@@ -68,7 +68,7 @@
         "description": "Ce projet consistait à créer une application web de location immobilière avec React.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/Kasa.webp",
         "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/kasa-site.webp",
-        "difficultes": "Je ne connaissais pas du tout React. Le plus difficile a été de comprendre l'utilisation des props ainsi que des Hook. La lecture de la documentation et la pratique m'ont permis de comprendre leur fonctionnement et donc de développer le site Kasa.",
+        "difficultes": "Le plus difficile a été de comprendre l'utilisation des props ainsi que des Hook. La lecture de la documentation et la pratique m'ont permis de comprendre leur fonctionnement et donc de développer le site Kasa.",
         "competences": [
             "Développer une interface web avec Sass",
             "Configurer la navigation entre les pages de l'application avec React Router",
@@ -88,7 +88,7 @@
         "description": "Ce projet consistait à développer le back-end d'un site de notation de livres.",
         "imageUrl": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/mon_vieuw_grimoire.webp",
         "imageSite": "https://raw.githubusercontent.com/Miyane44/Portfolio/main/portfolio-app/src/assets/mon-vieuw-grimoire-site.webp",
-        "difficultes": "",
+        "difficultes": "Le plus difficile a été de mettre en place le middleware pour la gestion des images, les documentations de multer et de sharp m'ont aidé à mettre en place cette gestion. De plus, il a fallu sécuriser les APIs afin d'éviter tous problème lié aux données envoyées par les utilisateurs.",
         "competences": [
             "Implémenter un modèle logique de données conformément à la réglementation",
             "Mettre en œuvre des opérations CRUD de manière sécurisée",
