@@ -6,9 +6,9 @@ import Nav from './nav';
 function PageHeader() {
     return (
         <header className='header'>
-        <h1>Portfolio</h1>
-        <Nav/>
-      </header>
+            <h1>Portfolio</h1>
+            <Nav/>
+        </header>
     );
 }
 

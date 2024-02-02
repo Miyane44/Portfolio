@@ -6,12 +6,14 @@ import Modal from "./modal";
 function Card(props) {
     const [modalShow, setModalShow] = useState(false);
     const showModal = (event) => {
-        setModalShow(true);
         event.preventDefault();
+        setModalShow(true);
+        document.querySelector('body').style.overflow = 'hidden';
       };
     
     const hideModal = () => {
         setModalShow(false);
+        document.querySelector('body').style.overflow = 'auto';
       };
     return (
         <div className='card'>
