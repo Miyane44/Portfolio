@@ -11,7 +11,6 @@ function Contact() {
                 <i className='mail-icon fa-solid fa-envelope'></i>
                 <a href="mailto:elodie-mouquet@orange.fr" className='mail-to'>elodie-mouquet@orange.fr</a>
             </span>
-            <Nav/>
         </footer>
     );
 }
